@@ -16,3 +16,6 @@
 
 # VSCode
 .vscode
+
+gophercise*
+coverage.txt
